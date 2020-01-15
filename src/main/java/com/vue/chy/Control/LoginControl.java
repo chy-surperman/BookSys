@@ -23,6 +23,7 @@ public class LoginControl {
           System.out.println("test测试404");
           return new Result(404);
       }else{
+
           System.out.println("测试");
           return  new Result(200);
       }

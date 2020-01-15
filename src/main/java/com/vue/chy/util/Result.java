@@ -12,6 +12,7 @@ public class Result {
         this.code = code;
     }
 
+
     public Result(int code) {
         this.code = code;
     }
